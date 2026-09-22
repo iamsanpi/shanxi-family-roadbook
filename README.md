@@ -20,7 +20,7 @@ npm run test:unit
 python3 -m http.server 8765 --directory docs
 ```
 
-GitHub Pages 发布 `main` 分支的 `/docs`。无服务器、无账号、无分析追踪、无 API key。
+GitHub Pages 发布 `feat/family-roadbook` 分支的 `/docs`。无服务器、无账号、无分析追踪、无 API key。
 
 ## 范围与隐私
 
