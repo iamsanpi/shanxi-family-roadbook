@@ -1,0 +1,72 @@
+[
+  {
+    "id": "yanmen",
+    "src": "images/yanmen.jpg",
+    "title": "File:Barbican gate of Yanmen Pass (20250712165843).jpg",
+    "author": "N509FZ",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barbican_gate_of_Yanmen_Pass_(20250712165843).jpg",
+    "bytes": 1106719
+  },
+  {
+    "id": "wood",
+    "src": "images/wood.jpg",
+    "title": "File:Pagoda of Fogong Temple at Dust.jpg",
+    "author": "Charlie fong",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pagoda_of_Fogong_Temple_at_Dust.jpg",
+    "bytes": 541994
+  },
+  {
+    "id": "yungang",
+    "src": "images/yungang.jpg",
+    "title": "File:Cave 20, Yungang Grottoes.jpg",
+    "author": "Dudva",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Cave_20,_Yungang_Grottoes.jpg",
+    "bytes": 1021814
+  },
+  {
+    "id": "hanging",
+    "src": "images/hanging.jpg",
+    "title": "File:Hanging Temple.jpg",
+    "author": "User:Gisling",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hanging_Temple.jpg",
+    "bytes": 379369
+  },
+  {
+    "id": "zhengding",
+    "src": "images/zhengding.jpg",
+    "title": "File:20250118 Longxing Temple - Paifang.jpg",
+    "author": "Windmemories",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20250118_Longxing_Temple_-_Paifang.jpg",
+    "bytes": 279355
+  },
+  {
+    "id": "datong",
+    "src": "images/datong.jpg",
+    "title": "File:Datong Ancient City Wall 01.jpg",
+    "author": "xiquinhosilva",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Datong_Ancient_City_Wall_01.jpg",
+    "bytes": 640733
+  },
+  {
+    "id": "xinzhou",
+    "src": "images/xinzhou.jpg",
+    "title": "File:Gatetower of Gongchen Gate, Xinzhou (20250712100817).jpg",
+    "author": "N509FZ",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gatetower_of_Gongchen_Gate,_Xinzhou_(20250712100817).jpg",
+    "bytes": 742918
+  }
+]
